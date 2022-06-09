@@ -1,2 +1,5 @@
 # 42-ft_printf
-The ft_printf project at 42 schools.
+
+Score: 100/100
+
+Recreation of the famous printf function in C programming language.
